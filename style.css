@@ -87,13 +87,14 @@ body {
   justify-content: center;
   align-items:center;
   color:white;
+  font-family: 'Times New Roman', Times, serif;
   font-weight: 100;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .hero > * {
   margin: 0;
   cursor: pointer;
+  
 }
 
 .hero h1 {
